@@ -5,6 +5,13 @@
         <div class="row">
             <div class="col">
                 <h1>This is the about page</h1>    
+                {{if .}}
+                    <p>TemplateData ==> {{.}}</p>
+                    <hr>
+                    <p>StringMap ==> {{.StringMap}}</p>
+                    <p>CSRFToken ==> {{.CSRFToken}}</p>
+                    <p>Form ==> {{.Form}}</p>
+                {{end}}
             </div>
         </div>
     </div>

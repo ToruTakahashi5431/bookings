@@ -1,0 +1,22 @@
+mode: set
+github.com/torutakahashi/bookings/internal/handlers/handlers.go:24.47,28.2 1 1
+github.com/torutakahashi/bookings/internal/handlers/handlers.go:31.33,33.2 1 1
+github.com/torutakahashi/bookings/internal/handlers/handlers.go:36.67,41.2 3 1
+github.com/torutakahashi/bookings/internal/handlers/handlers.go:44.68,56.2 5 1
+github.com/torutakahashi/bookings/internal/handlers/handlers.go:60.74,69.2 4 1
+github.com/torutakahashi/bookings/internal/handlers/handlers.go:72.78,74.16 2 1
+github.com/torutakahashi/bookings/internal/handlers/handlers.go:79.2,94.19 7 1
+github.com/torutakahashi/bookings/internal/handlers/handlers.go:105.2,107.66 2 1
+github.com/torutakahashi/bookings/internal/handlers/handlers.go:74.16,77.3 2 0
+github.com/torutakahashi/bookings/internal/handlers/handlers.go:94.19,103.3 4 0
+github.com/torutakahashi/bookings/internal/handlers/handlers.go:112.71,114.2 1 1
+github.com/torutakahashi/bookings/internal/handlers/handlers.go:117.69,119.2 1 1
+github.com/torutakahashi/bookings/internal/handlers/handlers.go:122.75,124.2 1 1
+github.com/torutakahashi/bookings/internal/handlers/handlers.go:127.79,132.2 3 1
+github.com/torutakahashi/bookings/internal/handlers/handlers.go:141.79,149.16 3 1
+github.com/torutakahashi/bookings/internal/handlers/handlers.go:153.2,154.14 2 1
+github.com/torutakahashi/bookings/internal/handlers/handlers.go:149.16,151.3 1 0
+github.com/torutakahashi/bookings/internal/handlers/handlers.go:158.70,160.2 1 1
+github.com/torutakahashi/bookings/internal/handlers/handlers.go:162.81,164.9 2 1
+github.com/torutakahashi/bookings/internal/handlers/handlers.go:171.2,180.4 5 0
+github.com/torutakahashi/bookings/internal/handlers/handlers.go:164.9,169.3 4 1
